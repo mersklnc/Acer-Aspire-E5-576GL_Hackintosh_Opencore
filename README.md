@@ -29,3 +29,5 @@ Hackintoshing the Laptop
  - [OSX Info](https://osxinfo.net) in Turkish
  - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
  - [Dortania Guides](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
+
+test
