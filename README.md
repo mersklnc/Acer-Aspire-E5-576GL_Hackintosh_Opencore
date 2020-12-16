@@ -15,7 +15,7 @@ Hackintoshing the Laptop
  # Installation
  
  For installation, firstly you have to create a USB installer, you can refer to the [OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#a-supported-smbios).
- However, for device-specific EFI prepared for the first installation kindly download and extract the above files on your computer and replace the EFI folder on the USB installer with the downloaded one in the 'USB-EFI' folder.
+ However, for device-specific EFI prepared for the first installation kindly download and extract the above files on your computer and replace the EFI folder on the USB installer with the downloaded one in the 'USB - EFI' folder.
  Please note that installation may last longer than expected, especially in comparison to the Catalina installation, so be patient and calm.
  
  # After Installation
